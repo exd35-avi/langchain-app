@@ -11,3 +11,6 @@ beautifulsoup4
 requests
 python-dotenv
 joblib
+
+# IMPORTANT: Replace with your actual OpenAI API key
+OPENAI_API_KEY = "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"  # <----- PUT YOUR KEY HERE
