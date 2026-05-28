@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+langchain
+langchain-openai
+langchain-community
+httpx
+beautifulsoup4
+requests
+python-dotenv
+joblib

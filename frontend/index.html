@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Inventory Assistant with ML</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div class="app">
+    <aside>
+        <h2>📦 Inventory AI</h2>
+        <div id="stats"></div>
+        <h3>⚠️ Alerts</h3>
+        <div id="alerts"></div>
+    </aside>
+    <main>
+        <div class="chat-header">
+            <h1>Inventory Assistant</h1>
+            <p>ML-powered demand forecasting & stockout prediction</p>
+        </div>
+        <div id="chat-messages" class="chat-messages">
+            <div class="message assistant"><div class="content">Hello! I use Random Forest ML to forecast demand. Ask me about stock, reorders, or future demand predictions.</div></div>
+        </div>
+        <div class="input-area">
+            <textarea id="user-input" placeholder="Type your question..." rows="3"></textarea>
+            <button id="send-btn">Send</button>
+        </div>
+        <div class="suggestions">
+            <button class="suggestion">Show low stock items</button>
+            <button class="suggestion">Recommend reorder for all</button>
+            <button class="suggestion">ML forecast for SKU001 next 45 days</button>
+            <button class="suggestion">Stockout risk for SKU005 in 10 days</button>
+            <button class="suggestion">Create PO for SKU010 50</button>
+        </div>
+    </main>
+</div>
+<script src="/js/chat.js"></script>
+</body>
+</html>
