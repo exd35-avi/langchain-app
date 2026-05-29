@@ -1,0 +1,6 @@
+InvestorID,InvestorName,InvestorProfile,AssetType,AssetName,Quantity,PurchasePrice,CurrentPrice,PurchaseDate,SIPAmount,InvestmentAmount,TotalPortfolioInvestment,AllocationPercent
+INV001,Rahul Sharma,Moderate,Equity,TCS,50,3850.0,4120.0,2024-02-15,0,192500,717300,26.84
+INV001,Rahul Sharma,Moderate,Equity,HDFC Bank,40,1520.0,1785.0,2023-11-20,0,60800,717300,8.48
+INV001,Rahul Sharma,Moderate,Mutual Fund,SBI Bluechip Fund,3503,68.5,79.2,2023-01-01,10000,240000,717300,33.46
+INV001,Rahul Sharma,Moderate,Fixed Deposit,HDFC FD 7.1%,100000,1.0,1.07,2024-01-01,0,100000,717300,13.94
+INV001,Rahul Sharma,Moderate,Gold,Sovereign Gold Bond,20,6200.0,7600.0,2023-05-15,0,124000,717300,17.29

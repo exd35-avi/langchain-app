@@ -1,0 +1,33 @@
+azure/genailab-maas-gpt-35-turbo 
+• azure/genailab-maas-gpt-4o 
+• azure/genailab-maas-gpt-4o-mini 
+• azure/genailab-maas-text-embedding-3-large 
+• azure/genailab-maas-whisper 
+• azure_ai/genailab-maas-DeepSeek-R1 
+• azure_ai/genailab-maas-DeepSeek-V3-0324 
+• azure_ai/genailab-maas-Llama-3.2-90B-Vision-Instruct 
+• azure_ai/genailab-maas-Llama-3.3-70B-Instruct 
+• azure_ai/genailab-maas-Llama-4-Maverick-17B-128E-Instruct-FP8 
+• azure_ai/genailab-maas-Phi-3.5-vision-instruct 
+• azure_ai/genailab-maas-Phi-4-reasoning 
+
+
+
+import httpx
+from langchain_openai import ChatOpenAI
+
+client = httpx.Client(verify=False)
+llm = ChatOpenAI(
+    base_url="https://genailab.tcs.in",
+    model="azure_ai/genailab-maas-DeepSeek-V3-0324",
+    api_key="YOUR_KEY_HERE",
+    http_client=client
+)
+
+
+LLM_API_KEY = sk-VDOkoWDmc8LxJK7zXfzKGQ
+
+alphavantage_DATA SOURCE KEY = Q910837CN5PC1ZE5
+news_api = 5423ac3a327e4199b8d8d72c3e7510db
+
+

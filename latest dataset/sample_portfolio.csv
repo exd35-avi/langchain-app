@@ -1,0 +1,6 @@
+AssetType,Name,Symbol,Quantity,PurchasePrice,CurrentMarketPrice,PurchaseDate
+Equity,Apple,AAPL,10,170,195,2024-01-01
+Equity,Tesla,TSLA,5,220,260,2024-01-01
+MutualFund,SBI Bluechip,SBI123,100,85,92,2024-01-01
+FD,HDFC FD,FD001,1,100000,108000,2024-01-01
+Gold,Digital Gold,GOLD,20,5500,7200,2024-01-01

@@ -1,0 +1,6 @@
+InvestorID,InvestorName,InvestorProfile,AssetType,AssetName,Quantity,PurchasePrice,CurrentPrice,PurchaseDate,SIPAmount,InvestmentAmount,TotalPortfolioInvestment,AllocationPercent
+INV008,Pooja Nair,Moderate,Equity,Bharti Airtel,70.0,920.0,1880,2023-09-20,0,64400.0,64400.0,100.0
+INV008,Pooja Nair,Equity,ITC,150,420.0,495.0,2023-08-11,0,63000,,64400.0,
+INV008,Pooja Nair,Mutual Fund,Mirae Asset Large Cap Fund,3593,66.8,84.2,2023-01-01,10000,240000,,64400.0,
+INV008,Pooja Nair,Fixed Deposit,ICICI FD 7.0%,150000,1.0,1.06,2024-02-01,0,150000,,64400.0,
+INV008,Pooja Nair,Gold,Gold ETF HDFC,22,5500.0,7300.0,2023-07-20,0,121000,,64400.0,

@@ -1,0 +1,7 @@
+InvestorID,InvestorName,InvestorProfile,AssetType,AssetName,Quantity,PurchasePrice,CurrentPrice,PurchaseDate,SIPAmount,InvestmentAmount,TotalPortfolioInvestment,AllocationPercent
+INV005,Vikram Singh,Aggressive,Equity,NVIDIA,20.0,780.0,1420,2024-02-01,0,15600.0,15600.0,100.0
+INV005,Vikram Singh,Equity,Apple,35,185.0,212.0,2023-09-25,0,6475,,15600.0,
+INV005,Vikram Singh,Equity,Microsoft,15,340.0,485.0,2023-07-12,0,5100,,15600.0,
+INV005,Vikram Singh,Mutual Fund,Motilal Oswal Nasdaq 100 Fund,6210,28.99,41.2,2023-01-01,15000,180000,,15600.0,
+INV005,Vikram Singh,Fixed Deposit,Kotak FD 7.0%,50000,1.0,1.06,2024-02-10,0,50000,,15600.0,
+INV005,Vikram Singh,Gold,Gold ETF SBI,25,5600.0,7350.0,2023-04-22,0,140000,,15600.0,
